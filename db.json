@@ -1,0 +1,41 @@
+{
+  "product": [
+    {
+      "productid": "sasasa",
+      "productname": "Laptop",
+      "productprice": 35000,
+      "productcategory": "Electronics",
+      "producturl": "https://cdn.thewirecutter.com/wp-content/media/2022/07/laptop-under-500-2048px-acer-1.jpg",
+      "productdescription": "Good product",
+      "id": 1
+    },
+    {
+      "productid": "qwer123",
+      "productname": "Mobile",
+      "productprice": 10000,
+      "productcategory": "Electronics",
+      "producturl": "https://img5.gadgetsnow.com/gd/images/products/additional/large/G442922_View_1/mobiles/smartphones/realme-narzo-n53-128-gb-feather-gold-6-gb-ram-.jpg",
+      "productdescription": "New Model mobile\n",
+      "id": 2
+    },
+    {
+      "productid": "ASDFG",
+      "productname": "Pant",
+      "productprice": 900,
+      "productcategory": "Clothing",
+      "producturl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQeYrLO3gPBFNNopzDScLnQMrzkuza4RB3tOoIZIouw&s",
+      "productdescription": "Its a 100% cotton jean.",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
